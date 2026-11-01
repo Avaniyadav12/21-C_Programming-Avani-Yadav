@@ -37,6 +37,9 @@ Programs will be added topic wise with their source code and output.
 ### Program 7 - Conditional Operator
 - Source code: 'conditional.c'
 - Output screenshot: 'conditional-output.png'
+### Program 8 - Expression in C
+- Source code: 'expression.c'
+- output screenshot: 'expression-output.png'
 
 ## Learning Outcomes
 - Understood different data types in C
