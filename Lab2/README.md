@@ -19,6 +19,9 @@ Programs will be added topic wise with their source code and output.
 ### Program 1 - Data Types and Variables
 - Source code: 'datatypes.c'
 - Output screenshot: 'datatypes-output.png'
+### Program 2 - Arithmetic Operators
+- Source code: 'arithmetic.c'
+- Output screenshot: 'arithmetic-output.png'
 
 ## Learning Outcomes
 - Understood different data types in C
