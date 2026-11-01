@@ -28,6 +28,9 @@ Programs will be added topic wise with their source code and output.
 ### Program 4 - Logical Operators
 - Source code: 'logical.c'
 - Output screenshot: 'logical-output.png'
+### Program 5 - Assignment Operators
+- Source code: 'assignment.c'
+- Output screenshot: 'assignment-output.png'
 
 ## Learning Outcomes
 - Understood different data types in C
