@@ -34,6 +34,9 @@ Programs will be added topic wise with their source code and output.
 ### Program 6 - Increment-Decrement Operator
 - Source code: 'increment-decrement.c'
 - Output screenshot: 'increment-decrement output.png'
+### Program 7 - Conditional Operator
+- Source code: 'conditional.c'
+- Output screenshot: 'conditional-output.png'
 
 ## Learning Outcomes
 - Understood different data types in C
