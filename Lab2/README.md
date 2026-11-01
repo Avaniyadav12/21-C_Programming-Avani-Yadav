@@ -31,6 +31,9 @@ Programs will be added topic wise with their source code and output.
 ### Program 5 - Assignment Operators
 - Source code: 'assignment.c'
 - Output screenshot: 'assignment-output.png'
+### Program 6 - Increment-Decrement Operator
+- Source code: 'increment-decrement.c'
+- Output screenshot: 'increment-decrement output.png'
 
 ## Learning Outcomes
 - Understood different data types in C
