@@ -13,6 +13,9 @@ To understand input/output functions, decision making statements, looping statem
 ### Program 1 - Formatted input and output
 - Source code: 'input-output.c'
 - Output screenshot: 'input-output.png'
+### Program 2 - If statement
+- Source code: 'if-statement.c'
+- Output screenshot: 'if-statement output.png'
 
 ## Practice Programs
 1. Largest of three numbers
