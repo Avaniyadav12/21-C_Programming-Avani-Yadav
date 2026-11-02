@@ -10,6 +10,9 @@ To understand input/output functions, decision making statements, looping statem
 4. Use of break and continue
 5. nested loops
 6. pattern generation
+### Program 1 - Formatted input and output
+- Source code: 'input-output.c'
+- Output screenshot: 'input-output.png'
 
 ## Practice Programs
 1. Largest of three numbers
