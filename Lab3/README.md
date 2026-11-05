@@ -31,6 +31,9 @@ To understand input/output functions, decision making statements, looping statem
 ### Program 7 - for loop
 - Source code: 'for-loop.c'
 - Output screenshot: 'for-loop-output.png'
+### Program 8 - while loop
+- Source code: 'while-loop.c'
+- Output screenshot: 'while-loop-output.png'
 
 ## Practice Programs
 1. Largest of three numbers
