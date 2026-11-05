@@ -49,6 +49,9 @@ To understand input/output functions, decision making statements, looping statem
 ### Program 13 - Break statement
 - Source code: 'break.c'
 - Output screenshot: 'break-output.png'
+### Program 14 - Continue statement
+- Source code: 'continue.c'
+- Output screenshot: 'continue-output.png'
 
 ## Practice Programs
 1. Largest of three numbers
