@@ -19,6 +19,9 @@ To understand input/output functions, decision making statements, looping statem
 ### Program 3 - if-else statement
 - Source code: 'if-else.c'
 - Output screenshot: 'if-else output.png'
+### Program 4 - nested if statement
+- Source code: 'nested-if.c'
+- Output screenshot: 'nested-if output.png'
 
 ## Practice Programs
 1. Largest of three numbers
