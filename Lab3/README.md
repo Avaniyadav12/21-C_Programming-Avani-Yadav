@@ -40,6 +40,9 @@ To understand input/output functions, decision making statements, looping statem
 ### Program 10 - nested for loop
 - Source code: 'nested-for-loop.c'
 - Output screenshot: 'nested-for-loop-output.png'
+### Program 11 - nested while loop
+- Source code: 'nested-while-loop.c'
+- Output screenshot: 'nested-while-loop-output.png'
 
 ## Practice Programs
 1. Largest of three numbers
