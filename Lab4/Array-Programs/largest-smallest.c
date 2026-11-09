@@ -11,7 +11,7 @@ scanf("%d", &arr[i]);
 }
 largest = arr[0];
 smallest = arr[0];
-for(i=1; i<5; i++);
+for(i=1; i<5; i++)
 {
 if(arr[i]>largest)
 {
