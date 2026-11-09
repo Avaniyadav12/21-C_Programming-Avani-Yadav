@@ -54,45 +54,69 @@ To understand input/output functions, decision making statements, looping statem
 - Output screenshot: 'continue-output.png'
 ### Program 15 - Pattern Generation
 #### 1. Right-Angle Star Pattern
-- Source code: 'right-angle-pattern.c'
-- Output screenshot: 'right-angle-pattern-output.png'
+- Source code: 'pattern-generation/right-angle-pattern.c'
+- Output screenshot: 'pattern-generation/right-angle-pattern-output.png'
 #### 2. Inverted Star Pattern
-- Source code: 'inverted-star-pattern.c'
-- Output screenshot: 'inverted-star-pattern-output.png'
+- Source code: 'pattern-generation/inverted-star-pattern.c'
+- Output screenshot: 'pattern-generation/inverted-star-pattern-output.png'
 #### 3. Pyramid Star Pattern
-- Source code: 'pyramid-star-pattern.c'
-- Output screenshot: 'pyramid-star-pattern-output.png'
+- Source code: 'pattern-generation/pyramid-star-pattern.c'
+- Output screenshot: 'pattern-generation/pyramid-star-pattern-output.png'
 #### 4. Number Pattern
-- Source code: 'number-pattern.c'
-- Output screenshot: 'number-pattern-output.png'
+- Source code: 'pattern-generation/number-pattern.c'
+- Output screenshot: 'pattern-generation/number-pattern-output.png'
 #### 5. Alphabet Pattern
-- Source code: 'alphabet-pattern.c'
-- Output screenshot: 'alphabet-pattern-output.png'
-
+- Source code: 'pattern-generation/alphabet-pattern.c'
+- Output screenshot: 'pattern-generation/alphabet-pattern-output.png'
 ## Practice Programs
-1. Largest of three numbers
-2. Even/Odd checker
-3. Leap year checker
-4. Prime number
-5. Armstrong number
-6. Palindrome number
-7. Perfect number
-8. Factorial
-9. Fibonacci series
-10. multiplication tables
-11. Number and star patterns
-
+this section contains basic C programming practice programs with there source code and output screenshot.
+### 1. Largest of Three Numbers
+- Source code: 'practice-programs/largest-of-three.c'
+- Output screenshot: 'practice-programs/largest-of-three-output.png'
+### 2. Even/Odd Ckecker
+- Source code: 'practice-programs/even-odd.c'
+- Output screenshot: 'practice-programs/even-odd-output.png'
+### 3. Leap Year Checker
+- Source code: 'practice-programs/leap-year.c'
+- Output screenshot: 'practice-programs/leap-year-output.png'
+### 4. Prime Number
+- Source code: 'practice-programs/prime-number.c'
+- Output screenshot: 'practice-programs/prime-number-output.png'
+### 5. Armstrong Number
+- Source code: 'practice-programs/armstrong-number.c'
+- Output screenshot: 'practice-programs/armstrong-number-output.png'
+### 6. Palindrome Number
+- Source code: 'practice-programs/palindrome-number.c'
+- Output screenshot: 'practice-programs/palindrome-number-output.png'
+### 7. Perfect Number
+- Source code: 'practice-programs/perfect-number.c'
+- Output screenshot: 'perfect-number-output.png'
+### 8. Factorial
+- Source code: 'practice-programs/factorial.c'
+- Output screenshot: 'practice-programs/factorial-output.png'
+### 9. Fibonacci Series
+- Source code: 'practice-programs/fibonacci-seriesc'
+- Output screenshot: 'practice-programs/fibonacci-series-output.png'
 ## Application Programs
-1. Menu-driven ATM simulator
-2. Student Result processing system
-3. Number Utility Toolkit
-
-## Learning Outcomes
-- Learned formatted input and output functions.
-- Understood decision-making statements.
-- Practiced different looping statements.
-- Learned the use of break and continue.
-- Developed problem-solving skills using C.
+This section contains application based C programming projects.
+### 1. Menu-driven ATM Simulator
+- Source code: 'application-programs/atm-simulator.c'
+- Output screenshot: 'application-programs/atm-simulator-output.ong'
+### 2. Student Result Processing System
+- Source code: 'application-programs/student-result.c'
+- Output screenshot: 'application-programs/student-result-output.png'
+### 3. Number Utility Toolkit
+- Source code: 'application-programs/number-utility-toolkit.c'
+- Output screenshot: 'application-programs/number-utility-toolkit-output.png'
+  ## Learning Outcomes
+  After completing this lab, I have learned:
+  ### 1. How to use loops in C programming.
+  ### 2. How to use if-else and switch statements.
+  ### 3. How to apply nested loops to generate different patters.
+  ### 4. How to solve mathematical problems using C programming.
+  ### 5. How to use functions and basic programming concepts.
+  ### 6. How to write, compile, run and debug C programs.
+  ### 7. How to upload source code and output screenshots on Github.
 
 ## Tools Used
 - Programming Language: C
