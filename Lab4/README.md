@@ -14,15 +14,21 @@ through basic concepts, practice programs, and application-based projects.
 - String Operations Without Library Functions
 
 ## Practice Programs
+### Array Programs
 1. Largest and Smallest Element
 2. Sum and Average of Array Elements
 3. Linear Search
 4. Bubble Sort
+
+### Matrix Programs
 5. Matrix Operations
-6. Reverse a string
-7. Palindrome String
-8. Count Vowels, Digits and Spaces
-9. Frequency of Characters
+6. Matrix Multiplication
+
+### String Programs
+7. Reverse a string
+8. Palindrome String
+9. Count Vowels, Digits and Spaces
+10. Frequency of Characters
 
 ## Application Programs
 1. Student Marks Management System
